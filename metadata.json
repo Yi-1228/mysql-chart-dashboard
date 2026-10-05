@@ -1,0 +1,6 @@
+{
+  "name": "銷售資料分析 Dashboard",
+  "description": "簡潔美觀的銷售資料分析儀表板，支援即時統計、Chart.js 圖表視覺化、多資料來源切換與 API 擴充架構。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
